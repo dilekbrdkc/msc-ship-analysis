@@ -82,20 +82,7 @@ https://www.kaggle.com/datasets/satyamrajput7913/ais-ship-tracking-vessel-dynami
 
 ---
 
-### 📁 Project Structure
 
-```id="p6v2c2"
-msc-ship-analysis/
-│
-├── data/              # Not included (download from Kaggle)
-├── notebooks/         # Python analysis
-├── powerbi/           # .pbix file
-├── results/           # Images used in README
-├── README.md
-└── requirements.txt
-```
-
----
 
 ### ⚠️ Notes
 
